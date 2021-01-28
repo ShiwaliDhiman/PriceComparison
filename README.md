@@ -6,7 +6,7 @@ How To Use????
 then it will give you the full product name and price from the different sites(amazon,flipkart,snapdeal)
 by which you can compare the prices of mobile phones.:):):):):)
 
-Note1:      you can also recheck the program by checking product name..if product names are different that means that product is not available in all the sites
+Note1:      if in output,product name of mobile from different sites are different that means that product is not available in all the sites
 
 Status:
        more features can be added to this program...
